@@ -12,7 +12,6 @@
 
 ## After Combining
 
-=======
 ![image](https://github.com/civarry/file_splitter/assets/108951259/1f71cf1e-d3ac-4675-a17e-ac7fe6e18d73)
 
 A simple Python script with a graphical user interface (GUI) for splitting large files into smaller chunks and combining them back.
