@@ -47,5 +47,3 @@ A simple Python script with a graphical user interface (GUI) for splitting large
 python file_splitter.py
 <<<<<<< HEAD
 ```
-=======
->>>>>>> 859812cfa343f0e4d0aeb892eb207aefb508f9f9
