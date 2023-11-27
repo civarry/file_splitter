@@ -3,27 +3,21 @@
 ## Preview
 <<<<<<< HEAD
 
-![File Splitter Preview](https://github.com/civarry/file_splitter/assets/108951259/c54a635e-939f-4788-8879-61a821e11a78)
+![image](https://github.com/civarry/file_splitter/assets/108951259/0023dadb-d93a-42cf-be9d-fb106908b682)
+
 
 ## Before and After
 
 |                                                  Before Splitting                                                   |                                                  After Splitting                                                   |
 | :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| ![Before Splitting](https://github.com/civarry/file_splitter/assets/108951259/4110d0d6-00c0-46c6-9437-452468a1c983) | ![After Splitting](https://github.com/civarry/file_splitter/assets/108951259/737487fa-e54e-44ac-b1f3-f67511cecfa6) |
+| ![Before Splitting]![image](https://github.com/civarry/file_splitter/assets/108951259/38a90a6b-cbd4-47ae-8a26-3735fcd25dbd)
+| ![After Splitting]![image](https://github.com/civarry/file_splitter/assets/108951259/8b449256-3f0e-45aa-ad02-13ee48aec379)
+ |
 
 ## After Combining
 
 =======
-![File Splitter Preview](https://github.com/civarry/file_splitter/assets/108951259/c54a635e-939f-4788-8879-61a821e11a78)
-
-## Before and After
-| Before Splitting                                | After Splitting                                 |
-|:------------------------------------------------:|:-----------------------------------------------:|
-| ![Before Splitting](https://github.com/civarry/file_splitter/assets/108951259/4110d0d6-00c0-46c6-9437-452468a1c983) | ![After Splitting](https://github.com/civarry/file_splitter/assets/108951259/737487fa-e54e-44ac-b1f3-f67511cecfa6) |
-
-## After Combining
->>>>>>> 859812cfa343f0e4d0aeb892eb207aefb508f9f9
-![After Combining](https://github.com/civarry/file_splitter/assets/108951259/e3685a06-26c1-44ce-91b4-140ca3e50ff4)
+![image](https://github.com/civarry/file_splitter/assets/108951259/1f71cf1e-d3ac-4675-a17e-ac7fe6e18d73)
 
 A simple Python script with a graphical user interface (GUI) for splitting large files into smaller chunks and combining them back.
 
