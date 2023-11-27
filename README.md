@@ -1,18 +1,14 @@
 # File Splitter
 
 ## Preview
-<<<<<<< HEAD
 
-![image](https://github.com/civarry/file_splitter/assets/108951259/0023dadb-d93a-42cf-be9d-fb106908b682)
-
+![image](https://github.com/civarry/file_splitter/assets/108951259/1f71cf1e-d3ac-4675-a17e-ac7fe6e18d73)
 
 ## Before and After
 
-|                                                  Before Splitting                                                   |                                                  After Splitting                                                   |
-| :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
-| ![Before Splitting]![image](https://github.com/civarry/file_splitter/assets/108951259/38a90a6b-cbd4-47ae-8a26-3735fcd25dbd)
-| ![After Splitting]![image](https://github.com/civarry/file_splitter/assets/108951259/8b449256-3f0e-45aa-ad02-13ee48aec379)
- |
+| Before Splitting | After Splitting |
+| :---------------: | :--------------: |
+| ![Before Splitting](https://github.com/civarry/file_splitter/assets/108951259/38a90a6b-cbd4-47ae-8a26-3735fcd25dbd) | ![After Splitting](https://github.com/civarry/file_splitter/assets/108951259/8b449256-3f0e-45aa-ad02-13ee48aec379) |
 
 ## After Combining
 
