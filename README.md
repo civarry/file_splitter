@@ -45,5 +45,4 @@ A simple Python script with a graphical user interface (GUI) for splitting large
 
 ```bash
 python file_splitter.py
-<<<<<<< HEAD
 ```
