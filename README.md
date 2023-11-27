@@ -2,7 +2,7 @@
 
 ## Preview
 
-![image](https://github.com/civarry/file_splitter/assets/108951259/1f71cf1e-d3ac-4675-a17e-ac7fe6e18d73)
+![image](https://github.com/civarry/file_splitter/assets/108951259/9a3e8531-bd7a-4497-894b-ee1301aeb301)
 
 ## Before and After
 
